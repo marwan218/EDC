@@ -1,1 +1,2 @@
 <?php
+each 'hello world !';
